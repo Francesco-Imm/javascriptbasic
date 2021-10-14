@@ -22,13 +22,16 @@ h1 {
 h2, h3, h4 {
   color: rgba(0,0,0,.75);
   margin-top: 10px;
-  padding: 40px 40px;
 }
 
 p {
   margin-top: 15px;
 }
 
+/* Intro */
+.intro {
+  padding: 40px 40px;
+}
 
 /* Counter */
 .counter {
