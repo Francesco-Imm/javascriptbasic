@@ -1,6 +1,6 @@
 # Project JS-Basic Francesco Immacolato
 
-## Table of Contents
+## Contents
 1. [General Info](#general-info)
 2. [Built with](#built-with)
 3. [Technologies](#technologies)
