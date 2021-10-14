@@ -1,52 +1,35 @@
 # Project JS-Basic Francesco Immacolato
-Un piccolo counter realizzato in JS per tenere conto di quanta plastica si risparmia ogni volta che si riempie e riutilizza una borraccia anzichè una bottiglietta di plastica.
 
 ## Table of Contents
 1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+2. [Built with](#built-with)
+3. [Technologies](#technologies)
+4. [Contact](#contact)
+
+***
 ### General Info
-***
 Un piccolo counter realizzato in JS per tenere conto di quanta plastica si risparmia ogni volta che si riempie e riutilizza una borraccia anzichè una bottiglietta di plastica.
+
+#### Prova qui l'applicazione
+https://counter-save-plastic-immacolato.netlify.app
+
+
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Image text](assets/img/screenjs.png)
+
+***
+## Built with
+* [JavaScript]
+
+***
 ## Technologies
+Per realizzare questo progetto ho utilizzato i seguenti strumenti:
+* [Atom](https://atom.io): Version 1.58.0
+* [GitHub](https://github.com)
+* [Netlify](https://www.netlify.com)
+
 ***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
-## Installation
-***
-A little intro about the installation.
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part.
-> It should go over several rows?
-> This is how you do it.
-## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_.
-2. __Second question in bold__
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+## Contact
+* Francesco Immacolato - francesco.immacolato@gmail.com
+* Link al progetto su Netlify:
+* Link GitHub: https://github.com/Francesco-Imm/javascriptbasic.git
