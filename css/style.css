@@ -1,4 +1,4 @@
-/* General */
+/* Base style */
 * {
   margin: 0;
   padding: 0;
@@ -18,13 +18,17 @@ h1 {
   margin-top: 30px;
 }
 
+
 h2, h3, h4 {
   color: rgba(0,0,0,.75);
+  margin-top: 10px;
 }
 
 p {
   margin-top: 15px;
 }
+
+
 /* Counter */
 .counter {
   margin-top: 40px;
