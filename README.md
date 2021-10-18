@@ -23,7 +23,7 @@ https://counter-save-plastic-immacolato.netlify.app
 
 ***
 ## Technologies
-Per realizzare questo progetto ho utilizzato i seguenti strumenti:
+Per realizzare questo progetto ho utilizzato:
 * [Atom](https://atom.io): Version 1.58.0
 * [GitHub](https://github.com)
 * [Netlify](https://www.netlify.com)
