@@ -11,7 +11,7 @@
 Un piccolo counter realizzato in JS per tenere conto di quanta plastica si risparmia ogni volta che si riempie e riutilizza una borraccia anzichè una bottiglietta di plastica.
 
 #### Prova qui l'applicazione
-https://counter-save-plastic-immacolato.netlify.app
+counter-plastic-imma.netlify.app
 
 
 ### Screenshot
@@ -31,5 +31,5 @@ Per realizzare questo progetto ho utilizzato:
 ***
 ## Contact
 * Francesco Immacolato - francesco.immacolato@gmail.com
-* Link al progetto su Netlify:
+* Link al progetto su Netlify: counter-plastic-imma.netlify.app
 * Link GitHub: https://github.com/Francesco-Imm/javascriptbasic.git
