@@ -15,7 +15,7 @@ https://counter-save-plastic-immacolato.netlify.app
 
 
 ### Screenshot
-![Image text](assets/img/screenjs.png)
+![Image text](assets/img/screenjsmobile.png)
 
 ***
 ## Built with
