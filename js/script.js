@@ -1,25 +1,26 @@
 window.onload = function () {
-    let clickDivMinus = document.getElementById("click-div-minus");
-    clickDivMinus.onclick = decrementClick;
+    let minusBtn = document.getElementById("minus-button");
+    minusBtn.onclick = decrementClick;
 
-    let clickDivPlus = document.getElementById("click-div-plus");
-    clickDivPlus.onclick = incrementClick;
+    let plusBtn = document.getElementById("plus-button");
+    plusBtn.onclick = incrementClick;
 
     let verifyBtn = document.getElementById("verify-button");
     verifyBtn.onclick = verifyCounter;
 
     let resetBtn = document.getElementById("reset-button");
     resetBtn.onclick = resetCounter;
+
 }
 
 var counterVal = 0;
 
-incrementClick = function() {
-    updateDisplay(++counterVal);
-}
-
 decrementClick = function() {
     updateDisplay(--counterVal);
+}
+
+incrementClick = function() {
+    updateDisplay(++counterVal);
 }
 
 verifyCounter = function() {
@@ -44,5 +45,5 @@ resetCounter = function() {
 }
 
 updateDisplay = function(val) {
-    document.getElementById("counter-label").innerHTML = val;
+    document.getElementById("counter-display").innerHTML = val;
 }
