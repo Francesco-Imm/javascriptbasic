@@ -1,4 +1,4 @@
-# Project JS-Basic Francesco Immacolato
+# Project JS-Basics Francesco Immacolato
 [![Netlify Status](https://api.netlify.com/api/v1/badges/674f1e5c-7862-428f-8f28-40628f945a46/deploy-status)](https://app.netlify.com/sites/counter-plastic-imma/deploys)
 ## Contents
 1. [General Info](#general-info)
